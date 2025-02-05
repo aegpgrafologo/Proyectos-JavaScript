@@ -1,5 +1,5 @@
 /*Creación Variables, solo se separan por coma para no utilizar reiteradamente la palabra let*/
-/*cuando se termina de definir las variables se cierra con punto y coma - ALT 91 corchetes, ALT 123 LLAVES*/
+/*cuando se termina de definir las variables se cierra con punto y coma - ALT 91 corchetes, ALT 123 LLAVESG*/
 let marca = "Chevrolet",
     velocidad = 150,
     stock = 500,
